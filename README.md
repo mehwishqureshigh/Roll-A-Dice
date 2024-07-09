@@ -1,2 +1,2 @@
 # Roll-A-Dice
-First app in Flutter just to practice
+My first app in Flutter to practice and understand the logic.
